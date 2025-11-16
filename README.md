@@ -1,6 +1,3 @@
-# Business Management Web Application : <br>
-
-![home (2)](https://github.com/SuhasKamate/Business_Management_Project/assets/126138738/e8db8f17-72d6-42a0-b264-def0bf883bbf)
 
 
 
@@ -23,12 +20,7 @@
 
 
 
-## Technologies Used :
 
-- Spring Boot: Backend framework for building Java-based web applications.
-- Thymeleaf: Server-side Java template engine for dynamic HTML generation.
-- MySQL: Relational database management system for data storage.
-- IDE/Tool : Spring Tool Suite 4 (Eclipse)
 
 
 
